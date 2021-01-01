@@ -14,7 +14,7 @@ reddit = praw.Reddit(client_id='**********',
 
 # This needs to be filled with the Page Access Token that will be provided
 # by the Facebook App that will be created.
-PAT = '****************'
+PAT='EAAFlGOEB7BABAEj4nrYPbv5wl6ujm5eZB8Hl672t5l2UIsU9XDbGinGbj6n90DmWeqQN13sCFi11ZC2wGeN2aKZBWkOny9YL2wF0IZA2P2WYcShEWrLj2f62C9MEiIu3zZB9SFugUZCaT1HOghuV4ZBCoZAZBjzT6n6GrrLyQgyub0hLWOUwSB0dA'
 
 quick_replies_list = [{
     "content_type":"text",
